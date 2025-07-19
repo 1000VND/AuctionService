@@ -1,7 +1,7 @@
 {
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "profiles": {
-    "http": {
+    "ApiSearch": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
